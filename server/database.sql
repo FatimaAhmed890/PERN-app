@@ -41,8 +41,8 @@ CREATE TABLE todos(
 
 --fake users data
 
-insert into users (user_name, user_email, user_password) values ('Jacob', 'jacob@gmail.com', 'kthl8822');
+insert into users (user_name, user_email, user_password) values ('henry', 'henry@gmail.com', 'kthl8822');
 
 --fake todos data
 
-insert into todos (user_id, description) values ('60dc16dd-c7f1-4fde-827a-90c0e101555c', 'clean room');
+insert into todos (user_id, description) values ('6df66a76-9fdb-4dba-8ea5-34457cff32c0', 'complete this project');
